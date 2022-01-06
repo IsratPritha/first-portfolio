@@ -1,0 +1,85 @@
+h1{
+
+  font-size: 50px;
+}
+#ume{
+	border-left: 4px solid;
+	border-image: linear-gradient(orange , tomato);
+	border-image-slice: .5;
+}
+.orange{
+	color: orange;
+}
+.flexible-container{
+	display: flex;
+	margin-bottom: 150px;
+}
+.link-button{
+	text-decoration: none;
+	background-color: tomato;
+	padding: 10px 40px;
+	color: white;
+	border-radius: 5px;
+}
+.half-width{
+	width: 50%;
+	padding-left: 8%;
+}
+.half-width img{
+	width: 60%;
+}
+
+.center{
+	text-align: center;
+}
+.item-type{
+	width: 100%;
+	margin-left: 3%;
+	margin-right: 3%;
+	padding: 20px;
+	border-radius: 20px;
+	box-shadow: 10px 10px 40px white;
+
+}
+.illus img{
+	width: 40%;
+}
+#vission-color{
+	background-color: #FFE6E8;
+}
+#goal-color{
+	background-color: #FDF0C7;
+}
+#mission-color{
+	background-color: #E9FBFA;
+}
+.full-width{
+	width: 30%;
+	padding-left: 2%;
+	padding-right: 20%;
+}
+.button{
+	text-decoration: none;
+	background-color: #7D4EF8;
+	padding: 7px 30px;
+	color: white;
+	border-radius: 5px;
+}
+.button:hover{
+	background: orange;
+}
+.link{
+	text-decoration: none;
+	background-color: #F85B4E;
+	padding: 7px 30px;
+	color: white;
+	font-size: bold;
+	border-radius: 5px;
+}
+.link:hover{
+	background: #900C3F ;
+}
+.container{
+	background-color: black;
+	color: white;
+}
